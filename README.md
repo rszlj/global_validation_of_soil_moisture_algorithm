@@ -1,4 +1,4 @@
-# global_validation_of_soil_moisture_algorithm
+# Global validation of the Advanced Change Detection and Short-Term Change Detections (STCDs)
 This repository is for a global validaton of soil moisture retrieval algorithms
 
 ## Part I: Data preparation
