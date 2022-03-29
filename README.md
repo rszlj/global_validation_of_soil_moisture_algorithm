@@ -27,3 +27,8 @@ Use Extract static auxiliary data.ipynb to download landcover from GEE
 
 ## Part II: The python version of advanced change detection and short term change detection methods
 comming soon
+
+
+## Reference
+Liujun Zhu, Rui Si, Xiaoji Shen & Jeffrey P. Walker (under review) An advanced change detection method for time-series soil moisture retrieval from Sentinel-1, Remote Sensing of Environment
+
