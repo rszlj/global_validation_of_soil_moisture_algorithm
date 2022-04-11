@@ -29,7 +29,7 @@ Use Extract GEE data.ipynb to download Sentinel-1 and MODIS NDVI
 ### Landcover
 Use Extract static auxiliary data.ipynb to download landcover from GEE
 
-## Part II: The python version of advanced change detection and short term change detection methods
+## Part II: A python version of advanced change detection and short term change detection methods
 comming soon
 
 
